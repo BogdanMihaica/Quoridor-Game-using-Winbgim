@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1673464774 source:c:\users\bogdan\desktop\proiecte cb\quoridor\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<cmath>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<string>
+	<queue>
+
+1703009920 source:c:\users\bogdan\desktop\folder cu foldere\proiecte cb\quoridor\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<cmath>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<string>
+	<queue>
+
